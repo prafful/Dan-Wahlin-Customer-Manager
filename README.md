@@ -1,3 +1,13 @@
+Modified:
+1. server.js to run on 5000
+2. src/core/services/data.service.ts to use absolute url in place of relative url
+3. Implemented CORS with (npm i cors) in server.js
+
+You should run:
+node server.js
+then run:
+ng serve
+
 # Angular JumpStart with TypeScript
 
 The goal of this jumpstart app is to provide
