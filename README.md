@@ -8,6 +8,10 @@ node server.js
 then run:
 ng serve
 
+#Credits: https://github.com/DanWahlin
+
+
+
 # Angular JumpStart with TypeScript
 
 The goal of this jumpstart app is to provide
